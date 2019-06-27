@@ -1,0 +1,32 @@
+{
+  "name": "restify-wetag",
+  "version": "1.0.0",
+  "description": "Custom restify conditional request middlewares with support for weak etags",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/montmanu/restify-wetag.git"
+  },
+  "keywords": [
+    "restify",
+    "middleware",
+    "etag",
+    "conditional",
+    "request"
+  ],
+  "author": "Chris Montoro <cmonto1@hotmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/montmanu/restify-wetag/issues"
+  },
+  "homepage": "https://github.com/montmanu/restify-wetag#readme",
+  "dependencies": {
+    "async": "3.1.0",
+    "debug": "4.1.1",
+    "etag": "1.8.1",
+    "restify-errors": "8.0.0"
+  }
+}
