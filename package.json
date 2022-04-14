@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/montmanu/restify-wetag#readme",
   "dependencies": {
-    "async": "3.1.0",
+    "async": "3.2.2",
     "debug": "4.1.1",
     "etag": "1.8.1",
     "restify-errors": "8.0.0"
